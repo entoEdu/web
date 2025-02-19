@@ -1,0 +1,11 @@
+services:
+
+  entoedu.online:
+    image: dockette/web:php-83
+    container_name: web
+    environment:
+      ENVIRONMENT: "debug"
+    ports:
+      - 80:80
+    volumes:
+      - ./htdocs:/srv

@@ -1,0 +1,258 @@
+{block content}
+
+  <!-- Masthead -->
+  <header class="masthead text-white text-center">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-9 mx-auto">
+          <h1 class="mb-5">{_homepage.title}</h1>
+        </div>
+{*        <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">*}
+{*          <form>*}
+{*            <div class="form-row">*}
+{*              <div class="col-12 col-md-9 mb-2 mb-md-0">*}
+{*                <input type="email" class="form-control form-control-lg" placeholder="Enter your email...">*}
+{*              </div>*}
+{*              <div class="col-12 col-md-3">*}
+{*                <button type="submit" class="btn btn-block btn-lg btn-primary">Sign up!</button>*}
+{*              </div>*}
+{*            </div>*}
+{*          </form>*}
+{*        </div>*}
+      </div>
+    </div>
+  </header>
+
+  <!-- Image Showcases -->
+  <section class="showcase">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters">
+
+        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/collection.jpg');"></div>
+        <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+          <h2>{_homepage.text.first.title}</h2>
+          <p class="lead mb-0">{_homepage.text.first.content1} <b>{_homepage.text.first.content2}</b>{_homepage.text.first.content3}</p>
+        </div>
+      </div>
+      <div class="row no-gutters">
+        <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/scorpion.jpg');"></div>
+        <div class="col-lg-6 my-auto showcase-text">
+          <h2>{_homepage.text.second.title}</h2>
+          <p class="lead mb-0">{_homepage.text.second.content}</p>
+          <p class="lead mb-0">{_homepage.text.second.content2}<a href="mailto:survey@entoedu.online">survey@entoedu.online</a>{_homepage.text.second.content3} <a href="https://ufl.zoom.us/rec/play/sYx278MXv0uqbSM4-6ie3JbRI2UuaBYx0ZwTM4DvqZt0Wm9ScPWXesB9Jmtiowar-EYoUFedh8Vp1Nik.lLOeCv9pFjjohNQT?continueMode=true&_x_zm_rtaid=KbR4pNyITFWVge4jaAfR_w.1636438764510.1c82c038edd19da9e615ad7c73454df3&_x_zm_rhtaid=40">Andrea Lucky talk</a>.</p>
+        </div>
+      </div>
+{*      <div class="row no-gutters">*}
+{*        <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/bg-showcase-3.jpg');"></div>*}
+{*        <div class="col-lg-6 order-lg-1 my-auto showcase-text">*}
+{*          <h2>Easy to Use &amp; Customize</h2>*}
+{*          <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>*}
+{*        </div>*}
+{*      </div>*}
+    </div>
+  </section>
+
+
+  <!-- Testimonials -->
+  <section class="testimonials text-center bg-light">
+    <div class="container">
+      <h2 class="mb-5">{_homepage.function.title.section}</h2>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="{$basePath}/img/andrea.jpg" alt="">
+            <h5>Andrea Lucky</h5>
+            <p class="font-weight-light mb-0">{_homepage.people.andrea}<br>{_homepage.function.leader}</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="{$basePath}/img/vanda.jpg" alt="">
+            <h5>Vanda Janštová</h5>
+            <p class="font-weight-light mb-0">{_homepage.people.vanda}<br>{_homepage.function.national}</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="{$basePath}/img/romana.jpg" alt="">
+            <h5>Romana Schubertová</h5>
+            <p class="font-weight-light mb-0">{_homepage.people.romana}<br>{_homepage.function.national}</p>
+          </div>
+        </div>
+      </div>
+        <div class="row">
+          <div class="col-lg-4">
+          </div>
+          <div class="col-lg-4">
+            <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+              <img class="img-fluid rounded-circle mb-3" src="{$basePath}/img/jorg.jpg" alt="">
+              <h5>Jörg Großschedl</h5>
+              <p class="font-weight-light mb-0">{_homepage.people.jorg}<br>{_homepage.function.national}</p>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <p><br>{_homepage.contactus} <a href="mailto:survey@entoedu.online">survey@entoedu.online</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{*tableof members*}
+  <section class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 mx-auto">
+            <table class="table table-hover">
+              <thead>
+              <tr>
+                <th scope="col">{_homepage.function.title.country}</th>
+                <th scope="col">{_homepage.function.title.name}</th>
+                <th scope="col">{_homepage.function.title.institution}</th>
+                <th scope="col">{_homepage.function.title.attribution}</th>
+                <th scope="col">email</th>
+                <th scope="col">web</i></th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                <th>{_homepage.country.usa}</th>
+                <td>Andrea Lucky</td>
+                <td>{_homepage.institution.ufl}</td>
+                <td>{_homepage.function.leader}</td>
+                <td><a href="mailto:alucky@ufl.edu?subject=[EntoEdu]: ">alucky@ufl.edu</a></td>
+                <td><a href="https://andrealucky.com/"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.cz}</th>
+                <td>Vanda Janštová</td>
+                <td>{_homepage.institution.prfuk}</td>
+                <td>{_homepage.function.national}</td>
+                <td><a href="mailto:vanda.janstova@natur.cuni.cz?subject=[EntoEdu]: ">vanda.janstova@natur.cuni.cz</a></td>
+                <td><a href="https://www.natur.cuni.cz/biology/teaching/people/vanda-janstova"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.usa}/{_homepage.country.japan}</th>
+                <td>Akito Kawahara</td>
+                <td>{_homepage.institution.uflm}</td>
+                <td>{_homepage.function.management}</td>
+                <td><a href="mailto:kawahara@flmnh.ufl.edu?subject=[EntoEdu]: ">kawahara@flmnh.ufl.edu</a></td>
+                <td><a href="https://www.floridamuseum.ufl.edu/kawahara-lab/personnel/principal-investigator/"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+              <tr>
+                <th>{_homepage.country.cz}</th>
+                <td>Anna Legátová</td>
+                <td>{_homepage.institution.prfuk}</td>
+                <td>{_homepage.function.technical}</td>
+                <td><a href="mailto:anna.legatova@natur.cuni.cz?subject=[EntoEdu]: ">anna.legatova@natur.cuni.cz</a></td>
+                <td></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.cz}</th>
+                <td>Jan Mourek</td>
+                <td>{_homepage.institution.prfuk}</td>
+                <td>{_homepage.function.survey}</td>
+                <td><a href="mailto:jan.mourek@natur.cuni.cz?subject=[EntoEdu]: ">jan.mourek@natur.cuni.cz</a></td>
+                <td><a href="https://www.natur.cuni.cz/biology/teaching/people/jan-mourek"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.cz}</th>
+                <td>Petr Novotný</td>
+                <td>{_homepage.institution.prfuk}</td>
+                <td>{_homepage.function.data}</td>
+                <td><a href="mailto:novotp@natur.cuni.cz?subject=[EntoEdu]: ">novotp@natur.cuni.cz</a></td>
+                <td><a href="https://www.natur.cuni.cz/biology/teaching/people/petr-novotny-1"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.de}</th>
+                <td>Jörg Großschedl</td>
+                <td>{_homepage.institution.cologne}</td>
+                <td>{_homepage.function.national}</td>
+                <td><a href="mailto:jgrosssc@uni-koeln.de?subject=[EntoEdu]: ">jgrosssc@uni-koeln.de</a></td>
+                <td><a href="https://biologiedidaktik.uni-koeln.de/mitarbeiterinnen/hochschullehrerinnen/j-prof-dr-joerg-grossschedl"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.sk}</th>
+                <td>Romana Schubertová</td>
+                <td>{_homepage.institution.bel}</td>
+                <td>{_homepage.function.national}</td>
+                <td><a href="mailto:romana.schubertova@umb.sk?subject=[EntoEdu]: ">romana.schubertova@umb.sk</a></td>
+                <td><a href="https://www.fpv.umb.sk/rschubertova/"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              <tr>
+                <th>{_homepage.country.sk}</th>
+                <td>Marcela Adamcová</td>
+                <td>{_homepage.institution.bel}</td>
+                <td>{_homepage.function.survey}</td>
+                <td><a href="mailto:Marcela.Adamcova@umb.sk?subject=[EntoEdu]: ">Marcela.Adamcova@umb.sk</a></td>
+                <td><a href="https://www.fpv.umb.sk/maadamcova/"><i class="fa fa-link m-auto text-primary"></i></a></td>
+              </tr>
+              </tbody>
+            </table>
+        </div>
+      </div>
+    </section>
+
+  <!-- Icons Grid -->
+  <section class="features-icons bg-light text-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+            <div class="features-icons-icon d-flex">
+              <i class="fa fa-4x fa-bug m-auto text-primary"></i>
+            </div>
+            <h3>{_homepage.info.ethic.title}</h3>
+            <p class="lead mb-0">{_homepage.info.ethic.subtitle}:
+            <ul class="list-unstyled">
+              <li>{_homepage.info.ethic.item1}</li>
+              <li>{_homepage.info.ethic.item2}</li>
+              <li>{_homepage.info.ethic.item3}</li>
+              <li>{_homepage.info.ethic.item4}</li>
+            </ul></p>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+            <div class="features-icons-icon d-flex">
+              <i class="fa fa-4x fa-hand-holding-usd m-auto text-primary"></i>
+            </div>
+            <h3>{_homepage.info.funding.title}</h3>
+            <p class="lead mb-0">{_homepage.info.funding.item1}<br>
+              {_homepage.info.funding.item2}<br>
+              {_homepage.info.funding.item3}<br>
+              {_homepage.info.funding.item4}<br>
+              {_homepage.info.funding.item5}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{*  <!-- Call to Action -->*}
+{*  <section class="call-to-action text-white text-center">*}
+{*    <div class="overlay"></div>*}
+{*    <div class="container">*}
+{*      <div class="row">*}
+{*        <div class="col-xl-9 mx-auto">*}
+{*          <h2 class="mb-4">Ready to get started? Sign up now!</h2>*}
+{*        </div>*}
+{*        <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">*}
+{*          <form>*}
+{*            <div class="form-row">*}
+{*              <div class="col-12 col-md-9 mb-2 mb-md-0">*}
+{*                <input type="email" class="form-control form-control-lg" placeholder="Enter your email...">*}
+{*              </div>*}
+{*              <div class="col-12 col-md-3">*}
+{*                <button type="submit" class="btn btn-block btn-lg btn-primary">Sign up!</button>*}
+{*              </div>*}
+{*            </div>*}
+{*          </form>*}
+{*        </div>*}
+{*      </div>*}
+{*    </div>*}
+{*  </section>*}
+{/block}

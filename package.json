@@ -1,0 +1,39 @@
+{
+  "title": "entoedu.online",
+  "name": "entoedu",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://entoedu.online",
+  "license": "UNLICENSED",
+  "author": "entoedu",
+  "contributors": [
+    "Petr Novotný"
+  ],
+  "browserslist": [
+    "> 5%"
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6",
+    "bootstrap": "^4",
+    "popper.js": "^1",
+    "jquery": "^3",
+    "jquery.easing": "^1",
+    "simple-line-icons": "^2"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^5",
+    "core-js": "^3",
+    "mini-css-extract-plugin": "^2",
+    "sass": "^1",
+    "postcss-loader": "^7",
+    "postcss-preset-env": "^9",
+    "sass-loader": "^16",
+    "webpack-notifier": "^1"
+  },
+  "scripts": {
+    "dev": "encore dev",
+    "watch": "encore dev --watch",
+    "build": "encore production --progress"
+  }
+}

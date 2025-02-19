@@ -1,0 +1,63 @@
+title: "Entomology Education – An International Assessment of Knowledge and Practice"
+people:
+    title: "People behind the project"
+    andrea: "University of Florida, USA"
+    vanda: "Charles University, Czech Republic"
+    romana: "Matej Bel University, Slovakia"
+    jorg: "University of Cologne, Germany"
+function:
+    title:
+        section: "Team members"
+        country: "Country"
+        name: "Name"
+        institution: "Institution"
+        attribution: "Attribution"
+    leader: "project leader"
+    national: "national coordinator"
+    data: "data analysis"
+    survey: "data processing"
+    management: "survey management"
+    technical: "technical support"
+country:
+    cz: "Czech Republic"
+    usa: "USA"
+    sk: "Slovakia"
+    japan: "Japan"
+    de: "Germany"
+institution:
+    prfuk: "Charles University, Faculty of Science"
+    ufl: "University of Florida, Entomology & Nematology Department"
+    uflm: "University of Florida, Florida Museum of Natural History"
+    bel: "Matej Bel University, Faculty of Science"
+    cologne: "University of Cologne, Faculty of Mathematics and Natural Sciences"
+info:
+    ethic:
+        title: "Ethical approval"
+        subtitle: "This study has been approved by"
+        item1: "University of Florida IRB (IRB202002790)"
+        item2: "Charles University, Faculty of Science (2020/22)"
+        item3: "Ethics Commission of Bielefeld University on application no. 2021-198 of August 23, 2021"
+        item4: "Matej Bél University, nr. 1561/2021"
+    funding:
+        title: "Funding Acknowledgement"
+        subtitle: ""
+        item1: "A US Fulbright Scholar Award"
+        item2: "The University of Florida Faculty Enhancement Opportunity award"
+        item3: "Charles University Mobilita"
+        item4: "Charles University Internacionalizace"
+        item5: "Charles University Center for Strategic Partnership"
+contactus: "Contact us at "
+
+
+text:
+    first:
+        title: "About the project"
+        content1: "Entomology educators are currently grappling with the challenge of teaching about insects—and their essential roles in global ecosystems—in a changing world. In the Anthropocene, an era marked by unprecedented landscape and climate change, we face twin threats of devastating insect biodiversity losses and increasing devastation wrought by insect pests. At the same time, students themselves are changing as urbanization weakens cultural connections to nature. The overarching goal of this project is"
+        content2: "to understand the drivers of excellence in entomology education and the challenges to achieving it"
+        content3: ". While informal and formal education can supplement students’ limited firsthand experience of plants and animals, it is essential to recognize the importance of cultural context to learning. This study of the relative influences of formal and cultural entomology education on insect knowledge is a first step to developing effective and culturally-informed entomology education strategies for a modern world in need of world-class entomologists."
+    second:
+        title: "Insect Knowledge Survey"
+        content: "Do you love butterflies and honeybees, but fear cockroaches and spiders? You are not alone, but not everyone shares your feelings. If you have ever wondered why people have such strong feelings about certain animals, you may take an interest in the topic of this research examining how culture influences our attitudes about insects and spiders. Just as individuals differ in their feelings toward nature, cultures vary in their opinions of different animals and plants. To date, no one has systematically explored how perspectives compare across cultures with regard to insects. Students’ attitudes and pre-existing knowledge affect how universities teach about insects in the sciences, and especially in the field of biology. Assessing attitudes across different countries will help place knowledge in context, and as a result inform how educators around the world teach about insects."
+        content2: "Are you interested in learning more? Contact us at "
+        content3: " or watch "
+

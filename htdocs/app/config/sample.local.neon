@@ -1,0 +1,6 @@
+parameters:
+    environment: 'production'
+
+services:
+    cacheStorage:
+        factory: Nette\Caching\Storages\DevNullStorage

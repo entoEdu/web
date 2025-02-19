@@ -1,0 +1,61 @@
+title: "Entomologické vzdelávanie - medzinárodné hodnotenie vedomostí a praxe"
+people:
+    title: "Náš tím"
+    andrea: "University of Florida, USA"
+    vanda: "Univerzita Karlova, Česká republika"
+    romana: "Univerzita Mateja Bela, Slovenská republika"
+    jorg: "Univerzita Kolín nad Rýnom, Nemecko"
+function:
+    title:
+        section: "Členovia tímu"
+        country: "Štát"
+        name: "Meno"
+        institution: "Inštitúcia"
+        attribution: "Rola v tíme"
+    leader: "vedúci tímu"
+    national: "národný koordinátor"
+    data: "analýza dát"
+    survey: "zpracovanie dát"
+    management: "administrácia dotazníku"
+    technical: "technická podpora"
+country:
+    cz: "Česká republika"
+    usa: "USA"
+    sk: "Slovenská republika"
+    japan: "Japonsko"
+    de: "Nemecko"
+institution:
+    prfuk: "Univerzita Karlova, Přírodovědecká fakulta"
+    ufl: "University of Florida, Entomology & Nematology Department"
+    uflm: "University of Florida, Florida Museum of Natural History"
+    bel: "Univerzita Mateja Bela, Fakulta prírodných vied"
+    cologne: "Univerzita Kolín nad Rýnom, Mathematisch-Naturwissenschaftliche Fakultät"
+info:
+    ethic:
+        title: "Etická komisia"
+        subtitle: "Štúdia povolená"
+        item1: "University of Florida IRB (IRB202002790)"
+        item2: "Karlova Univerzita, Přírodovědecká fakulta (2020/22)"
+        item3: "Ethik-Kommission der Universität Bielefeld zu Antrag Nr. 2021-198 vom 23.08.2021"
+        item4: "Etická komisia Univerzity Mateje Béla č.z. 1561/2021"
+    funding:
+        title: "Finančná podpora"
+        subtitle: ""
+        item1: "A US Fulbright Scholar Award"
+        item2: "The University of Florida Faculty Enhancement Opportunity award"
+        item3: "Univerzita Karlova - Mobilita"
+        item4: "Univerzita Karlova - Internacionalizace"
+        item5: "Univerzita Karlova - Centrum strategických partnerství"
+contactus: "Kontaktujte nás na "
+
+text:
+    first:
+        title: "O projekte"
+        content1: "Učitelia entomológie sa v súčasnej dobe stretávajú s výzvou, týkajúcou sa výučby o hmyze – a jeho základných funkciách v globálnych ekosystémoch – v meniacom sa svete. V antropocéne, dobe poznamenanej nebývalými zmenami krajiny a podnebia, čelíme dvojakej hrozbe, spojenej s hmyzom: devastujúcej strate biodiverzity hmyzu a rastúcej devastácii, spôsobenej hmyzími škodcami. Zároveň sa menia aj študenti, pretože urbanizácia oslabuje ich kultúrne väzby na prírodu. Zastrešujúcim cieľom tohto projektu je"
+        content2: "porozumieť faktorom, ktoré vedú k excelencii vo vzdelávaní entomológie a prekážkam k dosiahnutiu tejto excelencie"
+        content3: ". Aj keď neformálne a formálne vzdelávanie môže doplniť obmedzené skúsenosti z prvej ruky, ktoré majú študenti s rastlinami a zvieratami, je dôležité uvedomiť si význam kultúrneho kontextu učenia sa. Táto štúdia relatívnych vplyvov formálneho a kultúrneho entomologického vzdelávania na vedomosti o hmyze je prvým krokom k vývoju účinných a kultúrne informovaných stratégií výučby entomológie pre moderný svet, ktorý potrebuje svetových entomológov."
+    second:
+        title: "Prieskum vedomostí o hmyze"
+        content: "Máte radi motýle a včely, ale bojíte sa švábov a pavúkov? Nie ste sami, nie každý však zdieľa vaše pocity. Ak ste niekedy premýšľali nad tým, prečo ľudia cítia k určitým živočíchom tak silné emócie, bude vás zaujímať téma tohto výskumu, skúmajúceho ako kultúra ovplyvňuje naše postoje k hmyzu a pavúkom. Rovnako ako sa jednotlivci líšia v citoch k prírode, líšia sa aj kultúry v názoroch na rôzne živočíchy a rastliny. Doposiaľ nikto systematicky neskúmal, ako sa v rôznych kultúrach líši pohľad na hmyz. Postoje študentov a už existujúce vedomosti ovplyvňujú to, ako učia univerzity o hmyze v prírodných vedách, najmä v biológii. Posudzovanie postojov v rôznych krajinách pomôže zakotviť vedomosti do kontextu a vo svojom výsledku informovať o tom, ako pedagógovia z celého sveta učia o hmyze."
+        content2: "Chcete se dozvedieť viac? Kontaktujte nás na "
+        content3: ", alebo sa pozrite na "

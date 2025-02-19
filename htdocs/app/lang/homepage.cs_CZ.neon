@@ -1,0 +1,61 @@
+title: "Entomologické vzdělávání - mezinárodní hodnocení znalostí a praxe"
+people:
+    title: "Náš tým"
+    andrea: "University of Florida, USA"
+    vanda: "Univerzita Karlova, Česká republika"
+    romana: "Univerzita Mateja Bela, Slovenská republika"
+    jorg: "Univerzita Kolín nad Rýnem, Německo"
+function:
+    title:
+        section: "Členové týmu"
+        country: "Stát"
+        name: "Jméno"
+        institution: "Instituce"
+        attribution: "Role v týmu"
+    leader: "vedoucí projektu"
+    national: "národní kordinátor"
+    data: "analýza dat"
+    survey: "zpracování dat"
+    management: "administrace dotazníku"
+    technical: "technická podpora"
+country:
+    cz: "Česká republika"
+    usa: "USA"
+    sk: "Slovenská republika"
+    japan: "Japonsko"
+    de: "Německo"
+institution:
+    prfuk: "Univerzita Karlova, Přírodovědecká fakulta"
+    ufl: "University of Florida, Entomology & Nematology Department"
+    uflm: "University of Florida, Florida Museum of Natural History"
+    bel: "Univerzita Mateja Bela, Fakulta prírodných vied"
+    cologne: "Univerzita Kolín nad Rýnem, Mathematisch-Naturwissenschaftliche Fakultät"
+info:
+    ethic:
+        title: "Etická komise"
+        subtitle: "Studie povolena"
+        item1: "University of Florida IRB (IRB202002790)"
+        item2: "Karlova Univerzita, Přírodovědecká fakulta (2020/22)"
+        item3: "Ethik-Kommission der Universität Bielefeld zu Antrag Nr. 2021-198 vom 23.08.2021"
+        item4: "Etická komisia Univerzity Mateje Béla č.z. 1561/2021"
+    funding:
+        title: "Finanční podpora"
+        subtitle: ""
+        item1: "A US Fulbright Scholar Award"
+        item2: "The University of Florida Faculty Enhancement Opportunity award"
+        item3: "Univerzita Karlova - Mobilita"
+        item4: "Univerzita Karlova - Internacionalizace"
+        item5: "Univerzita Karlova - Centrum strategických partnerství"
+contactus: "Kontaktujte nás na "
+
+text:
+    first:
+        title: "O projektu"
+        content1: "Učitelé entomologie se v současné době potýkají s výzvou týkající se výuky o hmyzu - a jeho základních rolích v globálních ekosystémech - v měnícím se světě. V antropocénu, době poznamenané nebývalými změnami krajiny a podnebí, čelíme dvojím hrozbě spojené s hmyzem: devastující ztrátě biodiverzity hmyzu a rostoucí devastaci způsobené hmyzími škůdci. Současně se mění i studenti, protože urbanizace oslabuje kulturní vazby na přírodu. Zastřešujícím cílem tohoto projektu je"
+        content2: "porozumět faktorům, které vedou k excelenci ve vzdělávání entomologie a překážkám k dosažení této excelence"
+        content3: ". I když neformální a formální vzdělávání může doplnit omezené zkušenosti z první ruky, které studenti mají s rostlinami a zvířaty, je důležité si uvědomit význam kulturního kontextu učení. Tato studie relativních vlivů formálního a kulturního entomologického vzdělávání na znalosti hmyzu je prvním krokem k vývoji účinných a kulturně informovaných strategií výuky entomologie pro moderní svět, který potřebuje světové entomology."
+    second:
+        title: "Průzkum znalostí o hmyzu"
+        content: "Máte rádi motýly a včely, ale bojíte se švábů a pavouků? Nejste sami, ale ne každý sdílí vaše pocity. Pokud jste někdy přemýšleli, proč lidé cítí k určitým zvířatům tak silné city, bude vás zajímat téma tohoto výzkumu zkoumajícího, jak kultura ovlivňuje naše postoje k hmyzu a pavoukům. Stejně jako se jednotlivci liší v citech k přírodě, liší se i kultury v názorech na různá zvířata a rostliny. Doposud nikdo systematicky neprozkoumal, jak se v různých kulturách liší pohled na hmyz. Postoje studentů a již existující znalosti ovlivňují to, jak univerzity učí o hmyzu v přírodních vědách, zejména biologii. Posuzování postojů v různých zemích pomůže umístit znalosti do kontextu a ve výsledku informovat o tom, jak pedagogové z celého světa učí o hmyzu."
+        content2: "Chcete se dozvědět více? Kontaktujte nás na "
+        content3: ", nebo se podívejte na "
