@@ -59,5 +59,9 @@ text:
         title: "Insect Knowledge Survey"
         content: "Do you love butterflies and honeybees, but fear cockroaches and spiders? You are not alone, but not everyone shares your feelings. If you have ever wondered why people have such strong feelings about certain animals, you may take an interest in the topic of this research examining how culture influences our attitudes about insects and spiders. Just as individuals differ in their feelings toward nature, cultures vary in their opinions of different animals and plants. To date, no one has systematically explored how perspectives compare across cultures with regard to insects. Students’ attitudes and pre-existing knowledge affect how universities teach about insects in the sciences, and especially in the field of biology. Assessing attitudes across different countries will help place knowledge in context, and as a result inform how educators around the world teach about insects."
         content2: "Are you interested in learning more? Contact us at "
-        content3: " or watch "
+
+publications:
+    title: Publications
+    roxanne: "German version of EntoEdu"
+    entoedu2022: "published tool along with the results of Czech and American students"
 

@@ -58,4 +58,8 @@ text:
         title: "Průzkum znalostí o hmyzu"
         content: "Máte rádi motýly a včely, ale bojíte se švábů a pavouků? Nejste sami, ale ne každý sdílí vaše pocity. Pokud jste někdy přemýšleli, proč lidé cítí k určitým zvířatům tak silné city, bude vás zajímat téma tohoto výzkumu zkoumajícího, jak kultura ovlivňuje naše postoje k hmyzu a pavoukům. Stejně jako se jednotlivci liší v citech k přírodě, liší se i kultury v názorech na různá zvířata a rostliny. Doposud nikdo systematicky neprozkoumal, jak se v různých kulturách liší pohled na hmyz. Postoje studentů a již existující znalosti ovlivňují to, jak univerzity učí o hmyzu v přírodních vědách, zejména biologii. Posuzování postojů v různých zemích pomůže umístit znalosti do kontextu a ve výsledku informovat o tom, jak pedagogové z celého světa učí o hmyzu."
         content2: "Chcete se dozvědět více? Kontaktujte nás na "
-        content3: ", nebo se podívejte na "
+
+publications:
+    title: Publikace
+    roxanne: "německá verze EntoEdu"
+    entoedu2022: "publikovaný nástroj EntoEdu doplněný o výsledky českých a amerických studentů"
