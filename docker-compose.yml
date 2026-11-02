@@ -1,7 +1,7 @@
 services:
 
   entoedu.online:
-    image: dockette/web:php-83
+    image: dockette/web:php-84
     container_name: web
     environment:
       ENVIRONMENT: "debug"
